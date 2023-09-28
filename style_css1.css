@@ -1,0 +1,90 @@
+/* .red{
+   background-color:aqua;
+   color: brown;
+   height: 160px; 
+   width: 166px;
+   border-color: lime;
+/* } */
+/*.green{
+    background-color:gold;
+    color: darkgreen;
+    height: 175px;
+    width: 166px; */
+/* }
+*{
+    margin: 0px;
+    padding: 10px;
+    border-color: lime;
+} */
+/* body{
+    background-image: url("img.jpg");
+     height: 180px;
+     
+     background-size: cover;
+     background-repeat: repeat-x;
+     background-position-x: center;
+
+} */
+ /* .container{
+    height: 300px;
+
+    background-image: url("img.jpg");
+    background-size: contain;
+     background-repeat: no-repeat; 
+     text-align: center;
+    background-position:bottom;
+ }  */
+    /* .id{
+        height: 300px;
+        border: 10px solid red ;
+        background-color: aqua;
+        background-repeat: no-repeat;
+        background-position:  center;
+    background-image: url("img.jpg");
+    background-size:200px 250px;
+    text-align:center;
+    background-attachment: scroll;
+    border-color:darkorange;
+    color: purple;
+
+} */
+
+/* .id{
+    height: 90px;
+    width: 750px;
+    background-color: aqua;
+    color: black;
+   
+} */
+/*.id{
+   height: 250px;
+   width: 750px;
+    background-color: greenyellow;
+    background-image: url("img.jpg");
+    background-size: 250px 200px;
+    background-repeat: no-repeat;
+    background-position:  top center;
+    background-attachment: scroll;
+text-align:start;
+color: indigo;
+}
+*{
+    margin: 0px;
+    padding: 7px;
+}*/
+/*  */
+/* .box2{
+    display: inline-block;
+    background-color: salmon;
+    width: 155px;
+    height: 250px;
+    text-decoration: underline;
+    text-transform:capitalize;
+    line-height: 20px;
+    font-size: 18px ;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-weight:bold;
+} */
+
+
